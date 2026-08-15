@@ -56,6 +56,7 @@ Sample output:
 0 "GPON Line" - O5 (operational), LOID status 0, FEC up/down Disable/Disable, encrypt Disable
 0 "GPON Optics" rx_power=-15.29;-25.0;-27.0|tx_power=2.99|temp=43.85;75.0;83.0|voltage=3.30|bias=12.62 RX -15.29 dBm, TX 2.99 dBm, 43.9C
 ```
+<img width="1125" height="339" alt="image" src="https://github.com/user-attachments/assets/fdc67efc-41ad-4262-9424-d08eca2d1904" />
 
 ## Install in CheckMK
 
